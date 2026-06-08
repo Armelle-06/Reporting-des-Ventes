@@ -1,6 +1,6 @@
 # 📊 Reporting Opérationnel avec Microsoft Power Platform
 
-> Projet de reporting en temps réel où les commerciaux saisissent leurs ventes sur mobile et les managers visualisent les performances instantanément sur Power BI — sans export, sans fichier Excel, sans saisie double.
+> Projet de reporting en temps réel où les commerciaux saisissent leurs ventes sur mobile et les managers visualisent les performances instantanément sur Power BI (sans export, sans fichier Excel, sans saisie double).
 
 
 ## 🎯 Contexte & Problématique
@@ -11,7 +11,7 @@ Ce projet répond à un besoin concret :
 
 - **Côté terrain** : les commerciaux saisissent leurs transactions en temps réel depuis une application mobile
 - **Côté management** : les managers consultent un tableau de bord Power BI mis à jour instantanément
-- **Côté sécurité** : chaque commercial ne peut saisir que ses propres ventes — l'identité est injectée automatiquement
+- **Côté sécurité** : chaque commercial ne peut saisir que ses propres ventes, l'identité est injectée automatiquement
 
 ---
 ### Prérequis pour reproduire ce projet
@@ -221,13 +221,10 @@ Avec `PowerBIIntegration` → la sélection dans Power BI pilote le comportement
 
 ---
 
-
-
 ## 👩‍💻 Auteure
 
 **Armelle MATCHEU** — Analytics Engineer
 Projet documenté en public sur https://www.linkedin.com/in/armelle-DataAnalyst dans le cadre d'un apprentissage Microsoft Power Platform.
 
 ## 📄 Licence
-
 Ce projet est partagé à des fins éducatives et de portfolio. Libre d'utilisation avec mention de la source.

@@ -1,4 +1,4 @@
-# 📊 Reporting Opérationnel — Microsoft Power Platform
+# 📊 Reporting Opérationnel avec Microsoft Power Platform
 
 > Projet de reporting en temps réel où les commerciaux saisissent leurs ventes sur mobile et les managers visualisent les performances instantanément sur Power BI — sans export, sans fichier Excel, sans saisie double.
 
